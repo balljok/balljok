@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+
+- I'm developing programs to support the university library
+- I work mostly in Python and JavaScript
 
 <!--
 **balljok/balljok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
