@@ -1,6 +1,6 @@
 ## Hello!
 
-- I'm developing programs to support the university library
+- For work I develop programs to support the university library
 - I work mostly in Python and JavaScript
 
 <!--
