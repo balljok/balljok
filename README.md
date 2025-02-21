@@ -4,6 +4,7 @@
 - I work mostly in Python and JavaScript
 
 "Kan vi inte vara snälla nu för sedan dör vi faktiskt"
+
 *Bob Hansson*
 
 <!--
