@@ -1,7 +1,10 @@
-## Hello!
+## Hej!
 
-- For work I develop programs to support the university library
+- For work I develop programs to support Linköping university library
 - I work mostly in Python and JavaScript
+
+"Kan vi inte vara snälla nu för sedan dör vi faktiskt"
+*Bob Hansson*
 
 <!--
 **balljok/balljok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
