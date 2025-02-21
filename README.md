@@ -1,7 +1,7 @@
 ## Hej!
 
 - For work I develop programs to support Linköping university library
-- I work mostly in Python and JavaScript
+- I work mostly in Python
 
 "Kan vi inte vara snälla nu för sedan dör vi faktiskt"
 
