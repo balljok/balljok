@@ -1,6 +1,6 @@
 ## Hej!
 
-- For work I develop programs to support Linköping university library
+- For work I spend my days at Linköping university library
 - I work mostly in Python
 
 "Kan vi inte vara snälla nu för sedan dör vi faktiskt"
